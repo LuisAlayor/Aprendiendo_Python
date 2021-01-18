@@ -40,7 +40,7 @@ def presentacion_2(palillos, quitas):
     print("                  Emppiezas a mover tu")
     print()
     print(" *********************************************************")
-    print("enter")
+    entrada= input("press enter")
 
 
 
